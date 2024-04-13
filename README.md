@@ -1,0 +1,1 @@
+Created this up to date weather forecast website during my semester break; using HTML,CSS,JavaScript. In order to produce real time weather info OPEN API was used in this project. Primarily hosted the website using github pages as it was solely experimental. 
